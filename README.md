@@ -40,10 +40,10 @@ The dataset was sourced from Kaggle, cleaned in Excel, transformed and queried u
 
 ## 🧠 Key Insights  
 
-### 🔹 Patient Flow  
+###  Patient Flow  
 ED visits are relatively stable throughout the day, indicating consistent demand rather than peak-driven pressure.  
 
-### 🔹 Patient Demographics  
+###  Patient Demographics  
 Adult patients account for the vast majority of visits, while no pediatric cases are recorded, suggesting dataset limitations.  
 
 ### 🔹 Patient Outcomes  
