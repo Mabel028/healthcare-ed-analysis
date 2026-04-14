@@ -1,4 +1,4 @@
-# 📊 Healthcare ED Analysis  
+#  Healthcare ED Analysis  
 Emergency Department Data Analysis using Excel, SQL, and Power BI  
 
 ---
