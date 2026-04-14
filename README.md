@@ -15,7 +15,7 @@ Excel
 MySQL
 Power BI
 
-# Dashboard 
+ 
 # Key Insights
 
 # Patient Flow
