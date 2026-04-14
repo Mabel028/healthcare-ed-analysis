@@ -32,6 +32,7 @@ The dataset was sourced from Kaggle, cleaned in Excel, transformed and queried u
 
 ### ED Overview  
 ![Dashboard](dashboard_overview.png)
+![Dashboard](dashboard_overview2.png)
 
 
 [Download Full Dashboard (PDF)](ED_Analysis_power_BI_Report.pdf)
