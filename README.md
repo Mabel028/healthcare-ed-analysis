@@ -3,7 +3,7 @@ Emergency Department Data Analysis using Excel, SQL, and Power BI
 
 ---
 
-## 📌 Overview  
+##  Overview  
 
 This project analyzes Emergency Department (ED) operations using patient visit data to uncover trends in patient flow, resource utilization, and operational efficiency.  
 
@@ -11,7 +11,7 @@ The dataset was sourced from Kaggle, cleaned in Excel, transformed and queried u
 
 ---
 
-## 🎯 Objectives  
+##  Objectives  
 
 - Understand patient visit patterns  
 - Analyze ED performance and wait times  
@@ -20,7 +20,7 @@ The dataset was sourced from Kaggle, cleaned in Excel, transformed and queried u
 
 ---
 
-## 🛠️ Tools Used  
+##  Tools Used  
 
 - Excel  
 - MySQL  
@@ -33,10 +33,8 @@ The dataset was sourced from Kaggle, cleaned in Excel, transformed and queried u
 ### ED Overview  
 ![Dashboard](dashboard_overview.png)
 
-### Patient Insights  
-![Insights](patient_insights.png)
 
-📥 [Download Full Dashboard (PDF)](ED_Analysis.pdf)
+[Download Full Dashboard (PDF)](ED_Analysis_power_BI_Report.pdf)
 
 ---
 
