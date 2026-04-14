@@ -28,7 +28,7 @@ The dataset was sourced from Kaggle, cleaned in Excel, transformed and queried u
 
 ---
 
-## 📊 Dashboard  
+##  Dashboard  
 
 ### ED Overview  
 ![Dashboard](dashboard_overview.png)
@@ -39,12 +39,12 @@ The dataset was sourced from Kaggle, cleaned in Excel, transformed and queried u
 
 ---
 
-## 🧠 Key Insights  
+##  Key Insights  
 
 ###  Patient Flow  
 ED visits are relatively stable throughout the day, indicating consistent demand rather than peak-driven pressure.  
 
-###  Patient Demographics  
+### 🔹 Patient Demographics  
 Adult patients account for the vast majority of visits, while no pediatric cases are recorded, suggesting dataset limitations.  
 
 ### 🔹 Patient Outcomes  
@@ -58,7 +58,7 @@ Top reasons for visits include fever, pneumonia, and stomach-related complaints,
 
 ---
 
-## 💡 Key Takeaways  
+##  Key Takeaways  
 
 - A significant proportion of ED visits are non-critical  
 - Long wait times indicate potential operational inefficiencies  
@@ -66,7 +66,7 @@ Top reasons for visits include fever, pneumonia, and stomach-related complaints,
 
 ---
 
-## ⚠️ Data Limitations  
+##  Data Limitations  
 
 - Visit time lacked full date information, requiring adjustments  
 - No pediatric data available in the dataset  
@@ -74,6 +74,6 @@ Top reasons for visits include fever, pneumonia, and stomach-related complaints,
 
 ---
 
-## 🚀 Conclusion  
+##  Conclusion  
 
 This analysis highlights opportunities to improve ED efficiency, optimize resource allocation, and reduce unnecessary emergency visits through improved access to primary care services.  
