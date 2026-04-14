@@ -4,16 +4,16 @@ Emergency Department Data Analysis using Excel, SQL and Power BI
 # Overview
 This project analyzes Emergency Department (ED) operations using patient visit data to uncover trends in patient flow, resource utilization, and operational efficiency. The dataset for this project was collectected from Kaggle, cleaned with excel and queried with SQL and reported with Power BI.
 
-# Objectives
-Understand patient visit patterns
-Analyze ED performance and wait times
-Identify key drivers of ED demand
-Evaluate admission and discharge trends
+## Objectives
+- Understand patient visit patterns
+- Analyze ED performance and wait times
+- Identify key drivers of ED demand
+- Evaluate admission and discharge trends
 
-# Tools Used
-Excel
-MySQL
-Power BI
+## Tools Used
+- Excel
+- MySQL
+- Power BI
 
  
 # Key Insights
@@ -39,13 +39,13 @@ ED length of stay averages 11–12 hours across all acuity levels, suggesting sy
 Top reasons for visits include fever, pneumonia, and stomach-related complaints, reflecting a mix of infectious and non-critical conditions.
 
 # Key Takeaways
-Many ED visits may not require emergency care
-Long wait times indicate operational inefficiencies
-Repeat visits suggest gaps in follow-up care
+- Many ED visits may not require emergency care
+- Long wait times indicate operational inefficiencies
+- Repeat visits suggest gaps in follow-up care
 
  # Data Limitations
-Time data lacked full date information
-No pediatric data available
+- Time data lacked full date information
+- No pediatric data available
 
 # Conclusion
 
