@@ -18,7 +18,7 @@ This project analyzes Emergency Department (ED) operations using patient visit d
  
 # Key Insights
 
-- Patient Flow
+### Patient Flow
 
 ED visits are relatively stable throughout the day, indicating consistent demand rather than peak-driven pressure.
 
